@@ -1,0 +1,391 @@
+{
+	"list": {
+		"name": "MDS",
+		"organization": "MediShares",
+		"colors": [
+			{
+				"name": "primary-colors",
+				"colors": [
+					{
+						"name": "blue",
+						"value": "#007aff"
+					},
+					{
+						"name": "teal-blue",
+						"value": "#5ac8fa"
+					},
+					{
+						"name": "green",
+						"value": "#4cd964"
+					},
+					{
+						"name": "yellow",
+						"value": "#ffcc00"
+					},
+					{
+						"name": "orange",
+						"value": "#ff9500"
+					},
+					{
+						"name": "red",
+						"value": "#ff3b30"
+					}
+				]
+			},
+			{
+				"name": "neutral-colors",
+				"colors": [
+					{
+						"name": "white",
+						"value": "#ffffff"
+					},
+					{
+						"name": "grey-05",
+						"value": "#f7f7fa"
+					},
+					{
+						"name": "grey-10",
+						"value": "#efeff4"
+					},
+					{
+						"name": "grey-15",
+						"value": "#dddce0"
+					},
+					{
+						"name": "grey-20",
+						"value": "#c8c7cc"
+					},
+					{
+						"name": "grey-50",
+						"value": "#8a8a8f"
+					},
+					{
+						"name": "black",
+						"value": "#000000"
+					}
+				]
+			},
+			{
+				"name": "interactive-colors",
+				"colors": [
+					{
+						"name": "blue-darker",
+						"value": "#0062d9"
+					},
+					{
+						"name": "teal-blue-darker",
+						"value": "#42a1d4"
+					},
+					{
+						"name": "green-darker",
+						"value": "#36b34f"
+					},
+					{
+						"name": "yellow-darker",
+						"value": "#d9a600"
+					},
+					{
+						"name": "orange-darker",
+						"value": "#d97700"
+					},
+					{
+						"name": "red-darker",
+						"value": "#d9211e"
+					}
+				]
+			},
+			{
+				"name": "background-colors",
+				"colors": [
+					{
+						"name": "grey-05",
+						"value": "#f7f7fa"
+					},
+					{
+						"name": "white",
+						"value": "#ffffff"
+					},
+					{
+						"name": "dark",
+						"value": "#2c363f"
+					}
+				]
+			},
+			{
+				"name": "text-colors",
+				"colors": [
+					{
+						"name": "black",
+						"value": "#000000"
+					},
+					{
+						"name": "grey-50",
+						"value": "#8a8a8f"
+					},
+					{
+						"name": "grey-20",
+						"value": "#c8c7cc"
+					},
+					{
+						"name": "white",
+						"value": "#ffffff"
+					}
+				]
+			}
+		],
+		"font": [
+			{
+				"name": "font-weight",
+				"variants": [
+					{
+						"name": "regular",
+						"fontWeight": "regular"
+					},
+					{
+						"name": "medium",
+						"fontWeight": "medium"
+					}
+				]
+			},
+			{
+				"name": "font-size",
+				"variants": [
+					{
+						"name": "font-size-default",
+						"unit": "pt",
+						"value": 16
+					},
+					{
+						"name": "font-size-xs",
+						"unit": "pt",
+						"value": 10
+					},
+					{
+						"name": "font-size-s",
+						"unit": "pt",
+						"value": 12
+					},
+					{
+						"name": "font-size-m",
+						"unit": "pt",
+						"value": 14
+					},
+					{
+						"name": "font-size-l",
+						"unit": "pt",
+						"value": 20
+					},
+					{
+						"name": "font-size-xl",
+						"unit": "pt",
+						"value": 24
+					},
+					{
+						"name": "font-size-xxl",
+						"unit": "pt",
+						"value": 32
+					},
+				]
+			},
+			{
+				"name": "line-height",
+				"variants": [
+					{
+						"name": "line-height-default",
+						"unit": "pt",
+						"value": 20
+					},
+					{
+						"name": "line-height-s",
+						"unit": "pt",
+						"value": 12
+					},
+					{
+						"name": "line-height-m",
+						"unit": "pt",
+						"value": 16
+					},
+					{
+						"name": "line-height-l",
+						"unit": "pt",
+						"value": 24
+					},
+					{
+						"name": "line-height-xl",
+						"unit": "pt",
+						"value": 32
+					},
+					{
+						"name": "line-height-xxl",
+						"unit": "pt",
+						"value": 40
+					},
+				]
+			},
+		],
+		"measurementSections": [
+			{
+				"name": "spacing",
+				"measurementType": "spacing",
+				"measurements": [
+					{
+						"name": "spacing-default",
+						"unit": "pt",
+						"value": 16
+					},
+					{
+						"name": "spacing-xxs",
+						"unit": "pt",
+						"value": 2
+					},
+					{
+						"name": "spacing-xs",
+						"unit": "pt",
+						"value": 4
+					},
+					{
+						"name": "spacing-s",
+						"unit": "pt",
+						"value": 8
+					},
+					{
+						"name": "spacing-m",
+						"unit": "pt",
+						"value": 12
+					},
+					{
+						"name": "spacing-l",
+						"unit": "pt",
+						"value": 24
+					},
+					{
+						"name": "spacing-xl",
+						"unit": "pt",
+						"value": 32
+					},
+					{
+						"name": "spacing-xxl",
+						"unit": "pt",
+						"value": 48
+					}
+				]
+			},
+			{
+				"name": "sizing",
+				"measurementType": "sizing",
+				"measurements": [
+					{
+						"name": "sizing-default",
+						"unit": "pt",
+						"value": 24
+					},
+					{
+						"name": "sizing-xxs",
+						"unit": "pt",
+						"value": 4
+					},
+					{
+						"name": "sizing-xs",
+						"unit": "pt",
+						"value": 8
+					},
+					{
+						"name": "sizing-s",
+						"unit": "pt",
+						"value": 12
+					},
+					{
+						"name": "sizing-m",
+						"unit": "pt",
+						"value": 16
+					},
+					{
+						"name": "sizing-l",
+						"unit": "pt",
+						"value": 32
+					},
+					{
+						"name": "sizing-xl",
+						"unit": "pt",
+						"value": 48
+					},
+					{
+						"name": "sizing-xxl",
+						"unit": "pt",
+						"value": 72
+					}
+				]
+			},
+			{
+				"name": "radius",
+				"measurementType": "radius",
+				"measurements": [
+					{
+						"name": "radius-default",
+						"unit": "pt",
+						"value": 12
+					},
+					{
+						"name": "radius-xxs",
+						"unit": "pt",
+						"value": 2
+					},
+					{
+						"name": "radius-xs",
+						"unit": "pt",
+						"value": 4
+					},
+					{
+						"name": "radius-x",
+						"unit": "pt",
+						"value": 6
+					},
+					{
+						"name": "radius-m",
+						"unit": "pt",
+						"value": 8
+					}
+				]
+			}
+		],
+		"shadowSections": [
+			{
+				"name": "shadow-bottomBar",
+				"variants": [
+					{
+						"X": "0pt",
+						"Y": "-1pt",
+						"Blur": "0pt",
+						"Spread": "0pt",
+						"Color": "#0000000c",
+					}
+				]
+			},
+			{
+				"name": "shadow-s",
+				"variants": [
+					{
+						"X": "0pt",
+						"Y": "1pt",
+						"Blur": "2pt",
+						"Spread": "0pt",
+						"Color": "#0000000c",
+					}
+				]
+			},
+			{
+				"name": "shadow-l",
+				"variants": [
+					{
+						"X": "0pt",
+						"Y": "8pt",
+						"Blur": "16pt",
+						"Spread": "0pt",
+						"Color": "#0000000c",
+					}
+				]
+			},
+		],
+		"readOnly": true
+	}
+}
