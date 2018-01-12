@@ -4,14 +4,14 @@
 		"organization": "MediShares",
 		"colors": [
 			{
-				"name": "primary-colors",
+				"name": "primary_colors",
 				"colors": [
 					{
 						"name": "blue",
 						"value": "#007aff"
 					},
 					{
-						"name": "teal-blue",
+						"name": "teal_blue",
 						"value": "#5ac8fa"
 					},
 					{
@@ -33,30 +33,30 @@
 				]
 			},
 			{
-				"name": "neutral-colors",
+				"name": "neutral_colors",
 				"colors": [
 					{
 						"name": "white",
 						"value": "#ffffff"
 					},
 					{
-						"name": "grey-05",
+						"name": "grey_05",
 						"value": "#f7f7fa"
 					},
 					{
-						"name": "grey-10",
+						"name": "grey_10",
 						"value": "#efeff4"
 					},
 					{
-						"name": "grey-15",
+						"name": "grey_15",
 						"value": "#dddce0"
 					},
 					{
-						"name": "grey-20",
+						"name": "grey_20",
 						"value": "#c8c7cc"
 					},
 					{
-						"name": "grey-50",
+						"name": "grey_50",
 						"value": "#8a8a8f"
 					},
 					{
@@ -66,39 +66,39 @@
 				]
 			},
 			{
-				"name": "interactive-colors",
+				"name": "interactive_colors",
 				"colors": [
 					{
-						"name": "blue-darker",
+						"name": "blue_darker",
 						"value": "#0062d9"
 					},
 					{
-						"name": "teal-blue-darker",
+						"name": "teal_blue_darker",
 						"value": "#42a1d4"
 					},
 					{
-						"name": "green-darker",
+						"name": "green_darker",
 						"value": "#36b34f"
 					},
 					{
-						"name": "yellow-darker",
+						"name": "yellow_darker",
 						"value": "#d9a600"
 					},
 					{
-						"name": "orange-darker",
+						"name": "orange_darker",
 						"value": "#d97700"
 					},
 					{
-						"name": "red-darker",
+						"name": "red_darker",
 						"value": "#d9211e"
 					}
 				]
 			},
 			{
-				"name": "background-colors",
+				"name": "background_colors",
 				"colors": [
 					{
-						"name": "grey-05",
+						"name": "grey_05",
 						"value": "#f7f7fa"
 					},
 					{
@@ -112,18 +112,27 @@
 				]
 			},
 			{
-				"name": "text-colors",
+				"name": "line_color",
+				"color": [
+					{
+						"name": "grey_15",
+						"value": "#dddce0"
+					},
+				]
+			},
+			{
+				"name": "text_colors",
 				"colors": [
 					{
 						"name": "black",
 						"value": "#000000"
 					},
 					{
-						"name": "grey-50",
+						"name": "grey_50",
 						"value": "#8a8a8f"
 					},
 					{
-						"name": "grey-20",
+						"name": "grey_20",
 						"value": "#c8c7cc"
 					},
 					{
@@ -135,7 +144,7 @@
 		],
 		"font": [
 			{
-				"name": "font-weight",
+				"name": "font_weight",
 				"variants": [
 					{
 						"name": "regular",
@@ -148,75 +157,75 @@
 				]
 			},
 			{
-				"name": "font-size",
+				"name": "font_size",
 				"variants": [
 					{
-						"name": "font-size-default",
+						"name": "font_size_default",
 						"unit": "pt",
 						"value": 16
 					},
 					{
-						"name": "font-size-xs",
+						"name": "font_size_xs",
 						"unit": "pt",
 						"value": 10
 					},
 					{
-						"name": "font-size-s",
+						"name": "font_size_s",
 						"unit": "pt",
 						"value": 12
 					},
 					{
-						"name": "font-size-m",
+						"name": "font_size_m",
 						"unit": "pt",
 						"value": 14
 					},
 					{
-						"name": "font-size-l",
+						"name": "font_size_l",
 						"unit": "pt",
 						"value": 20
 					},
 					{
-						"name": "font-size-xl",
+						"name": "font_size_xl",
 						"unit": "pt",
 						"value": 24
 					},
 					{
-						"name": "font-size-xxl",
+						"name": "font_size_xxl",
 						"unit": "pt",
 						"value": 32
 					},
 				]
 			},
 			{
-				"name": "line-height",
+				"name": "line_height",
 				"variants": [
 					{
-						"name": "line-height-default",
+						"name": "line_height_default",
 						"unit": "pt",
 						"value": 20
 					},
 					{
-						"name": "line-height-s",
+						"name": "line_height_s",
 						"unit": "pt",
 						"value": 12
 					},
 					{
-						"name": "line-height-m",
+						"name": "line_height_m",
 						"unit": "pt",
 						"value": 16
 					},
 					{
-						"name": "line-height-l",
+						"name": "line_height_l",
 						"unit": "pt",
 						"value": 24
 					},
 					{
-						"name": "line-height-xl",
+						"name": "line_height_xl",
 						"unit": "pt",
 						"value": 32
 					},
 					{
-						"name": "line-height-xxl",
+						"name": "line_height_xxl",
 						"unit": "pt",
 						"value": 40
 					},
@@ -229,42 +238,42 @@
 				"measurementType": "spacing",
 				"measurements": [
 					{
-						"name": "spacing-default",
+						"name": "spacing_default",
 						"unit": "pt",
 						"value": 16
 					},
 					{
-						"name": "spacing-xxs",
+						"name": "spacing_xxs",
 						"unit": "pt",
 						"value": 2
 					},
 					{
-						"name": "spacing-xs",
+						"name": "spacing_xs",
 						"unit": "pt",
 						"value": 4
 					},
 					{
-						"name": "spacing-s",
+						"name": "spacing_s",
 						"unit": "pt",
 						"value": 8
 					},
 					{
-						"name": "spacing-m",
+						"name": "spacing_m",
 						"unit": "pt",
 						"value": 12
 					},
 					{
-						"name": "spacing-l",
+						"name": "spacing_l",
 						"unit": "pt",
 						"value": 24
 					},
 					{
-						"name": "spacing-xl",
+						"name": "spacing_xl",
 						"unit": "pt",
 						"value": 32
 					},
 					{
-						"name": "spacing-xxl",
+						"name": "spacing_xxl",
 						"unit": "pt",
 						"value": 48
 					}
@@ -275,32 +284,32 @@
 				"measurementType": "sizing",
 				"measurements": [
 					{
-						"name": "sizing-default",
+						"name": "sizing_default",
 						"unit": "pt",
 						"value": 24
 					},
 					{
-						"name": "sizing-xxs",
+						"name": "sizing_xxs",
 						"unit": "pt",
 						"value": 4
 					},
 					{
-						"name": "sizing-xs",
+						"name": "sizing_xs",
 						"unit": "pt",
 						"value": 8
 					},
 					{
-						"name": "sizing-s",
+						"name": "sizing_s",
 						"unit": "pt",
 						"value": 12
 					},
 					{
-						"name": "sizing-m",
+						"name": "sizing_m",
 						"unit": "pt",
 						"value": 16
 					},
 					{
-						"name": "sizing-l",
+						"name": "sizing_l",
 						"unit": "pt",
 						"value": 32
 					},
@@ -310,7 +319,7 @@
 						"value": 48
 					},
 					{
-						"name": "sizing-xxl",
+						"name": "sizing_xxl",
 						"unit": "pt",
 						"value": 72
 					}
@@ -321,27 +330,27 @@
 				"measurementType": "radius",
 				"measurements": [
 					{
-						"name": "radius-default",
+						"name": "radius_default",
 						"unit": "pt",
 						"value": 12
 					},
 					{
-						"name": "radius-xxs",
+						"name": "radius_xxs",
 						"unit": "pt",
 						"value": 2
 					},
 					{
-						"name": "radius-xs",
+						"name": "radius_xs",
 						"unit": "pt",
 						"value": 4
 					},
 					{
-						"name": "radius-x",
+						"name": "radius_x",
 						"unit": "pt",
 						"value": 6
 					},
 					{
-						"name": "radius-m",
+						"name": "radius_m",
 						"unit": "pt",
 						"value": 8
 					}
@@ -350,7 +359,7 @@
 		],
 		"shadowSections": [
 			{
-				"name": "shadow-bottomBar",
+				"name": "shadow_bottomBar",
 				"variants": [
 					{
 						"X": "0pt",
@@ -362,7 +371,7 @@
 				]
 			},
 			{
-				"name": "shadow-s",
+				"name": "shadow_s",
 				"variants": [
 					{
 						"X": "0pt",
@@ -374,7 +383,7 @@
 				]
 			},
 			{
-				"name": "shadow-l",
+				"name": "shadow_l",
 				"variants": [
 					{
 						"X": "0pt",
@@ -388,4 +397,4 @@
 		],
 		"readOnly": true
 	}
-}TEST
+}
